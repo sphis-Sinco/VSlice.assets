@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<collapsible-dialog id="toolboxMetadata" title="Song Metadata" width="450" height="640">
+<collapsible-dialog id="toolboxMetadata" title="Song Metadata" width="425" height="500">
     <vbox width="100%" height="100%">
         <frame text="Variation: Default" width="100%" height="250" id="frameVariation">
             <vbox width="100%" height="100%">
